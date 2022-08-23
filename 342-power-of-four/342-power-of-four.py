@@ -4,8 +4,6 @@ class Solution:
         
         if(n>0):
             return math.log(n,4).is_integer()
-        else:
-            False
         
         
         
